@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+
+body {
+  margin: 0;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Quicksand", sans-serif;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.MuiTypography-root {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
